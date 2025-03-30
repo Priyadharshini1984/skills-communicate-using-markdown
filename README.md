@@ -1,4 +1,4 @@
-#######<This is the header>
+####### This is the header
 
 <!--
   <<< Author notes: Course header >>>
